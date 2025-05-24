@@ -1,4 +1,3 @@
-View Live Project on:https://maryam-3007.github.io/Tic-Tac-Toe-Game/
 
 Tic Tac Toe Game (HTML, CSS & JavaScript)
 
